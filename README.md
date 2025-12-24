@@ -34,7 +34,7 @@ Sigue estos pasos para levantar el proyecto en local:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone <URL_DE_TU_REPOSITORIO>
+    [git clone https://github.com/jhontesterqa-ops/OpenWeatherMap_API_Automation.git)]
     cd weather-automation-challenge
     ```
 
